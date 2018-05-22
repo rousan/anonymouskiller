@@ -2,7 +2,7 @@
 
 A web application to force a user to uninstall Stulish or Sarahah app from their phone.
 
-### [Site](https://github.com/rousan/sl/blob/master/CONTRIBUTING.md)
+### [Site](https://anonymouskiller.herokuapp.com/)
 
 ## Contributing
 
