@@ -1,0 +1,11 @@
+{
+  "name": "Anonymous Killer",
+  "description": "A web application to force a user to uninstall Stulish or Sarahah app from their phone",
+  "keywords": [
+    "hack",
+    "stulish",
+    "sarahah"
+  ],
+  "website": "https://github.com/rousan/anonymouskiller",
+  "repository": "https://github.com/rousan/anonymouskiller"
+}
