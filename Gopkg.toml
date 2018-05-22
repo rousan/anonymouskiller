@@ -4,6 +4,6 @@
 
 [metadata.heroku]
   root-package = "github.com/rousan/anonymouskiller"
-  go-version = "go1.9.2"
+  go-version = "go1.10"
   install = [ "." ]
   ensure = "false"
