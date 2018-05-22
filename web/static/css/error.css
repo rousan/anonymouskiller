@@ -1,0 +1,23 @@
+body, html {
+  margin: 0;
+  padding: 0;
+  line-height: 1;
+  font: 15px "Helvetica Neue",Helvetica,Arial,sans-serif;
+  color: rgba(0,0,0,0.87);
+  background-color: #f6f9fc;
+}
+
+body {
+  color: darkred;
+}
+
+.container {
+  margin-top: 50px;
+}
+
+
+@media only screen and (max-width: 600px) {
+  .container {
+    margin-top: 20px;
+  }
+}

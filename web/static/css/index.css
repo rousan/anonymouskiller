@@ -1,0 +1,34 @@
+body, html {
+  margin: 0;
+  padding: 0;
+  line-height: 1;
+  font: 15px "Helvetica Neue",Helvetica,Arial,sans-serif;
+  color: rgba(0,0,0,0.87);
+  background-color: #f6f9fc;
+}
+
+.container {
+  margin-top: 100px;
+  width: 600px;
+}
+
+.container .heading {
+  margin-bottom: 69px;
+  font-weight: bold;
+  text-align: center;
+}
+
+#submit {
+  float: right;
+}
+
+@media only screen and (max-width: 600px) {
+  .container {
+    width: 90%;
+    margin-top: 50px;
+  }
+
+  .container .heading {
+    margin-bottom: 30px;
+  }
+}
